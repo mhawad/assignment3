@@ -1,0 +1,146 @@
+/*Global styles 
+..................................*/
+
+body {
+	color: #343434;
+}
+
+a {
+  color:#FFE66D;
+}
+
+a.hover {
+	text-decoration: none;
+	
+}
+
+a:link {
+	color:green;
+}
+
+a:visited {
+	color: gray;
+}
+
+a.focus {
+	outline: 1px solid black;
+}
+
+
+a.active {
+color: white;	
+}
+
+img {
+	width: 300px;
+}
+
+/*Proflie 
+..................................*/
+
+header {
+	background: #2F3061;
+	color: #F7FFF7;
+}
+
+/*Projects
+..................................*/
+.projects {
+	background: #F7FFF7;
+}
+.projects a {
+color: #2F3061;
+}
+
+.projects .btn {
+	color: #F7FFF7;
+	background: #2F3061;
+	text-decoration: none;
+	padding: 8px;
+	border-radius: 4px;
+}
+
+.projects .btn a:hover {
+	background: rgba(47, 48, 97, 80%);
+}
+
+/*Work Experience 
+..................................*/
+.work-experience {
+	background: #A1c6D7;
+}
+
+/*Education 
+..................................*/
+
+
+
+/*Contact Info 
+..................................*/
+
+
+
+footer {
+	background: #343434;
+	color: #F7FFF7;
+	
+}
+
+
+section {
+	font-family:sans-serif;
+	
+	color: orange;
+}
+
+* {
+/*	color: lightblue;*/
+}
+
+p {
+/*	color:green;*/
+}
+h1{
+	color:#F7FFF7;
+}
+
+h2 {
+	color: #F7FFF7;
+}
+
+.example {
+	color:black;
+}
+
+.example2 {
+	background-color: black;
+}
+
+.example .example2 {
+	font-size: 50px;
+}
+
+#example {
+	color: purple;
+}
+
+
+section a {
+	color:green;
+}
+
+.container a {
+/*	color:orange;*/
+}
+
+section p {
+	color: lightgreen;
+}
+
+section p a {
+	color:pink;
+}
+
+.container p a {
+	color:green;
+}
